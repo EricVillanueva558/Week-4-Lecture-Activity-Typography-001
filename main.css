@@ -1,0 +1,67 @@
+/* Google Fonts */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f4b400; /* Gold */
+    color: #1f3b5b; /* Navy Blue */
+}
+
+header h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+header .intro {
+    font-size: 1.2rem;
+    font-weight: 300;
+    max-width: 600px;
+    margin: 1rem auto;
+    color: #333;
+}
+
+/* Section Styling */
+.section {
+    background-color: white;
+    margin: 1.5rem auto;
+    padding: 1.5rem;
+    max-width: 800px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    color: #e63946; /* Coral Red */
+    margin-bottom: 0.5rem;
+}
+
+/* Paragraph Styling */
+.section p {
+    margin: 1rem 0;
+    text-indent: 2em;
+}
+
+/* Typography Enhancements */
+p, h2 {
+    line-height: 1.8;
+}
+
+/* Borders and Padding */
+.section {
+    padding: 2rem;
+    border-left: 5px solid #3d5a80; /* Deep Ocean Blue */
+}
